@@ -1,2 +1,2 @@
 # daily_py
-Daily Python Lambda Functions
+My goal is to create a new python lambda function each day in an effor to become more proficient. 
